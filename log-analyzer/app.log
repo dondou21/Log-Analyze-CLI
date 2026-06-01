@@ -1,0 +1,5 @@
+2024-01-15 10:03:22 ERROR Database timeout
+2024-01-15 10:04:01 INFO Server started
+{"timestamp": "2024-01-15 10:05:30", "level": "ERROR", "message": "Connection refused"}
+2024-01-15 10:06:45 WARNING High memory usage
+{"timestamp": "2024-01-15 10:07:44", "level": "ERROR", "message": "Database timeout"}
